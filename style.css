@@ -29,7 +29,7 @@ h1 {
   /* text-align: center; */
 }
 
-#checkbox {
+input[type="checkbox"] {
   margin-right: 10px;
   cursor: pointer;
 } 
