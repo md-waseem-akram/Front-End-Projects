@@ -26,13 +26,7 @@ h1 {
   margin-bottom: 10px;
   box-sizing: border-box;
   border-radius : 5px;
-  /* text-align: center; */
 }
-
-input[type="checkbox"] {
-  margin-right: 10px;
-  cursor: pointer;
-} 
 
 button {
   background-color: white;
